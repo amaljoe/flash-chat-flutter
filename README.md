@@ -9,7 +9,7 @@ The objective of making this app was to learn how to incorporate Firebase into F
 - Incorporated Firebase into Flutter app.  
 - Used Firebase authentication to register and sign in users.
 - Created beautiful animations using the Flutter Hero widget.
-- Implemented Custom aniamtions using Flutter's animation controller. 
+- Implemented Custom animations using Flutter's animation controller.
 - Learnt all about mixins and how they differ from superclasses.
 - Learnt about Streams and how they work.
 - Used ListViews to build scrolling views.
