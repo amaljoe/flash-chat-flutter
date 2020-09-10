@@ -5,7 +5,7 @@ This is one of the many apps I made while learning flutter and I like this one t
 The objective of making this app was to learn how to incorporate Firebase into Flutter apps. I used Firebase Cloud Firestore as well as the Firebase authentication package to equip this app with a cloud-based NoSQL database and secure authentication methods. I also learnt implicit and explicit animations along the journey.
 
 
-##Some things to note:
+## Some things to note:
 - Incorporated Firebase into Flutter app.  
 - Used Firebase authentication to register and sign in users.
 - Created beautiful animations using the Flutter Hero widget.
