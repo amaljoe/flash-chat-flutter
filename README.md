@@ -14,3 +14,5 @@ The objective of making this app was to learn how to incorporate Firebase into F
 - Learnt about Streams and how they work.
 - Used ListViews to build scrolling views.
 - Learnt how to use Firebase Cloud Firestore to store and retrieve data on the fly.
+
+Starter project was forked from https://github.com/londonappbrewery/flash-chat-flutter
